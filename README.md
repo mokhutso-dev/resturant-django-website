@@ -1,2 +1,9 @@
 # resturant-little-lemon
-Restaurant website using django and Mysql
+Restaurant website that allow you to view menu and make eservations 
+
+### Technologies used:
+- Langauge: Python
+- Framework: Django
+- Database: MySQL
+- Design: HTML
+- Style: CSS

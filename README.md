@@ -1,5 +1,5 @@
 # resturant-little-lemon
-Restaurant website that allow you to view menu and make eservations 
+Restaurant website that allow you to view menu and make reservations 
 
 ### Technologies used:
 - Langauge: Python
